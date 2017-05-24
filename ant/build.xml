@@ -1,0 +1,6 @@
+<project name="HelloWorld" default="target">
+	
+	<target name="target">
+	<echo> This is first try let's c it gets success </echo>
+	</target>
+</project>
